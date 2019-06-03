@@ -489,7 +489,7 @@ Dåså, dags att lämna campuset i perfekt anonymitet och smita iväg.
 
 Darryl öppnade dörren och började att gå ut, med mig tätt bakom. En sekund senare stod han på mina tår, med armbågarna i mitt bröst när han försökte att gå tillbaka in i det miniatyrkök vi precis hade gått ut ifrån. 
 
-"Backa" viskade han hastigt. "Fort --- det är Charles!".
+"Backa," viskade han hastigt. "Fort -- det är Charles!"
 
 Charles Walker och jag kommer inte överens. Vi går i samma klass, och jag har känt honom lika länge som jag har känt Darryl, men där upphör likheterna. Charles har alltid varit stor för sin ålder, och han har inte blivit mindre sen han började träna amerikansk fotboll. Han har våldsamma problem med sitt humör -- jag förlorade en mjölktand på grund av honom i tredje klass -- och enda anledningen till att han lyckades hålla sig själv utanför trubbel med skolan var genom att bli den mest aktiva tjallare i skolan.
 
@@ -503,11 +503,11 @@ Senaste gången Charles hittade något om mig att skvallra om, så slutade det m
 
 "OK", sa jag. "Dags för akuta motåtgärder." Jag tog fram min telefon. Jag hade planerat för denna situation sedan länge. Charles skulle aldrig få sätta dit mig igen. Jag mailade min server hemma, och satte igång sakerna.
 
-Några sekunder senare drabbades Charlies telefon av total panik. Jag hade skickat tiotusentals samtidiga telefonsamtal och textmeddelanden till den, vilket fick alla dess notifieringssignalar att låta samtidigt och hela tiden. Bakom attacken låg ett botnet, vilket inte är särskilt snyggt, men jag gjorde det ju för en god sak.
+Några sekunder senare drabbades Charlies telefon av total panik. Jag hade skickat tiotusentals samtidiga telefonsamtal och textmeddelanden till den, vilket fick alla dess notifieringssignaler att låta samtidigt och hela tiden. Bakom attacken låg ett botnät, vilket inte är särskilt snyggt, men jag gjorde det ju för en god sak.
 
-Ett botnät är det helvete som smittade datorer tillbringar livet efter detta i. När du får en mask eller ett virus på din dator, skickar den ett meddelande till en chatt-kanal på IRC - Internet Relay Chat. Det budskapet underrättar botmastern - snubben som spred ut masken - att din dator nu är det redo att utföra hans order. Botnät är väldigt kraftfulla, eftersom de kan innehålla tusentals (eller till och med hundratusentals) datorer utspridda över hela Internet, feta hemdatorer som är anslutna till feta internetanslutningar. Deras ägare märker oftast ingenting, men när botmastern kallar dem, lystrar de som zombies till sin mästares order.
+Ett botnät är det helvete som smittade datorer tillbringar livet efter detta i. När du får en mask eller ett virus på din dator, skickar den ett meddelande till en chatt-kanal på IRC -- Internet Relay Chat. Det budskapet underrättar botmastern -- snubben som spred ut masken -- att din dator nu är det redo att utföra hans order. Botnät är väldigt kraftfulla, eftersom de kan innehålla tusentals, till och med hundratusentals datorer utspridda över hela Internet, feta hemdatorer som är anslutna till feta internetanslutningar. Deras ägare märker oftast ingenting, men när botmastern kallar dem, lystrar de som zombies till sin mästares order.
 
-Det finns så många infekterade datorer på Internet att priset för att hyra dem en timme eller  två har kraschat. Oftast jobbar de för spammare och fyller din inkorg med reklam för Viagra eller nya virus infekterar dig och rekryterar din maskin till bottnätet.
+Det finns så många infekterade datorer på Internet att priset för att hyra dem en timme eller två på ett botnät har kraschat. Oftast jobbar de för spammare och fyller din inkorg med reklam för Viagra eller nya virus som infekterar dig och rekryterar din maskin till botnätet.
 
 Jag hade bara hyrt 10 sekunder på tre tusen datorer som jag använde för att få var och en av dem att skicka ett textmeddelande eller voice-over-IP-samtal till Charlies telefon, vars nummer jag hade fått från en postitlapp på Bensons skrivbord under ett hemskt besök på hans kontor .
 
@@ -574,21 +574,21 @@ Jag fick upp WiFi-signalen med min telefons wifinder tre kvarter upp på O'Farre
 
 Darryl och Van hade mobiler med inbyggda wifi-detektorer, medan Jolu, som var för cool för att bära en mobil större än hans lillfinger, hade en separat riktningsbaserad nyckelring.
 
-"OK, sprid ut er och se vad vi ser. Du letar efter en skarpt minskande av signalen som blir värre ju mer du rör dig längs med den."
+"OK, sprid ut er och se vad vi ser. Ni letar efter en skarpt minskande av signalen som blir värre ju mer ni rör er längs med den."
 
-Jag tog ett steg bakåt, och råkade ställa mig på någons tår. En kvinnoröst sa "aj" och jag vände mig snabbt om, orad över att någon crack-hora skulle hugga mig för att jag lyckades bryta sönder hennes klackar.
+Jag tog ett steg bakåt, och råkade ställa mig på någons tår. En kvinnoröst sa "aj" och jag vände mig snabbt om, oroad över att någon crack-hora skulle hugga mig för att jag lyckades bryta sönder hennes klackar.
 
-Istället fann jag mig ansikte mot ansikte med någon i min egen ålder. Hon hade chockrosa hår, och en skarpt råttliknande ansikte med stora glasögon som praktiskt taget var pilotglasögon. Hon var klädd i randiga tights under en svart mormosklänning, med en massa japanska dekorleksaker fastsatta med säkerhetsnålar, anime-figurer, gamla världsledare, och emblem från utländska läskmärken.
+Istället fann jag mig ansikte mot ansikte med någon i min egen ålder. Hon hade en ljusrosa hårtofs, och ett skarpt råttliknande ansikte med stora glasögon som praktiskt taget var pilotglasögon. Hon var klädd i randiga tights under en svart mormorsklänning, med en massa japanska dekorleksaker fastsatta med säkerhetsnålar, anime-figurer, gamla världsledare, och emblem från utländska läskmärken.
 
 Hon höll upp en kamera och knäppte en bild på mig och mitt gäng.
 
 "Säg omelett," sade hon. "Du är med på hemliga kameran."
 
-"Det kan inte vara sant", sa jag. "Du skulle inte -"
+"Det kan inte vara sant", sa jag. "Du skulle inte --"
 
-"Jag ska," sa hon. "Jag ska skicka detta foto till skolkarkollen om trettio sekunder om inte ni fyra backar tillbaka från den här ledtråden och låter mig och mina vänner här löpa ledtråden ut Du kan komma tillbaka om en timme och det blir allt ditt. Jag tror det är mer än rättvist. "
+"Jag ska," sa hon. "Jag ska skicka detta foto till skolkarkollen om trettio sekunder om inte ni fyra backar tillbaka från den här ledtråden och låter mig och mina vänner här hitta den. Du kan komma tillbaka om en timme och det blir allt ditt. Jag tror det är mer än rättvist. "
 
-Jag tittade bakom henne och märkte tre andra tjejer i liknande skräp - en med blått hår, en med grön och en med lila. "Vilka försöker ni vara, Isglassgruppen?"
+Jag tittade bakom henne och märkte tre andra tjejer i liknande klädstil -- en med blått hår, en med grönt och en med lila. "Vilka försöker ni vara, Isglassgruppen?"
 
 "Vi är laget som kommer att sparka ditt lags röv på Harajuku Fun Madness", sa hon. "Och jag är den som *just denna sekund* ska till att ladda upp ditt foto och få dig i *så mycket problem* --"
 
@@ -642,7 +642,7 @@ Jag tryckte mig igenom folkmassan och såg Van stirra äcklat på en äldre snub
 
 "Spraya inte honom!" skrek jag till henne. "Du kommer att träffa alla oss också."
 
-När jag nämnde ordet sprey så såg snubben orolig ut och smälte liksom tillbaka genom folkmassan som tryckte honom framåt. Längre fram såg jag en medelålders kvinna i en hippieklänning snubbla och ramla. Hon skrek när hon ramlade, och jag såg henne kämpa för att komma upp, men hon kunde inte, trycket från folkmassan var för stor. När jag närmade mig henne så böjde jag mig ner för att hjälpa henne, och blev nästan knuffad över henne. I slutändan klev jag på hennes mage när folkmassan tryckte mig förbi henne, men vid det laget tror jag inte att hon kände någonting.
+När jag nämnde ordet spray så såg snubben orolig ut och smälte liksom tillbaka genom folkmassan som tryckte honom framåt. Längre fram såg jag en medelålders kvinna i en hippieklänning snubbla och ramla. Hon skrek när hon ramlade, och jag såg henne kämpa för att komma upp, men hon kunde inte, trycket från folkmassan var för stor. När jag närmade mig henne så böjde jag mig ner för att hjälpa henne, och blev nästan knuffad över henne. I slutändan klev jag på hennes mage när folkmassan tryckte mig förbi henne, men vid det laget tror jag inte att hon kände någonting.
 
 Jag var rädd som aldrig någonsin förut. Det skreks överallt nu och fler kroppar hamnade på marken, trycket bakifrån var hårt som från en bulldozer. Allt jag kunde göra var att hålla mig på fötter. 
 
@@ -660,7 +660,7 @@ Jag kollade på Vanessa -- det fanns inte en chans i världen att hon skulle hö
 
 Jag såg att hon kände vibrationen från hennes telefon, för att sedan titta ner på den och sedan upp på mig och sedan nicka energiskt. Darryl hade under tiden informerat Jolu om situationen.
 
-"*Vad är planen*?" skrek Darryl i mitt öra.
+"*Vad är planen?* skrek Darryl i mitt öra.
 
 "Vi är tvungna att gå tillbaka!" skrek han tillbaka, och pekade hur folkmassan mosades.
 
@@ -670,7 +670,7 @@ Jag såg att hon kände vibrationen från hennes telefon, för att sedan titta n
 
 Han ryckte på axlarna. Van arbetade sig mot mig och grabbade tag i min handled. Jag tog Darryl och Darryl tog Jolu i den andra handen och vi pressade oss ut. 
 
-Det var inte lätt. Vi förflyttade oss ungefär 10 centimeter i minuten i början, och sen gick det ännu långsammare när vi närmade oss trappan. Människorna som vi passerade var inte alls glada över att vi knuffade undan dem heller. Några svor åt oss och det var en kille som såg ut som om han hade velat slå mig hårt om han hade lyckats röra sina armar. Vi passerade ytterligare tre kroppar som hade mosats under oss, men det fanns ingen möjlighet att hjälpa dem. Vid den tidpunkten hade jag inte ens en tanke på att hjälpa någon alls. Allt jag kunde tänka på var att hitta någon plats framför oss som vi kunde röra oss mot, Darryls starka grepp om min handled, och mitt dödsgrepp om Van bakom mig. 
+Det var inte lätt. Vi förflyttade oss ungefär tio centimeter i minuten i början, och sen gick det ännu långsammare när vi närmade oss trappan. Människorna som vi passerade var inte alls glada över att vi knuffade undan dem heller. Några svor åt oss och det var en kille som såg ut som om han hade velat slå mig hårt om han hade lyckats röra sina armar. Vi passerade ytterligare tre kroppar som hade mosats under oss, men det fanns ingen möjlighet att hjälpa dem. Vid den tidpunkten hade jag inte ens en tanke på att hjälpa någon alls. Allt jag kunde tänka på var att hitta någon plats framför oss som vi kunde röra oss mot, Darryls starka grepp om min handled, och mitt dödsgrepp om Van bakom mig. 
 
 Vi sköt fria som champagne korkar en evighet senare, blinkandes i det grå rökiga ljuset. Luftrapporteringens sirener skrällde fortfarande, och ljudet av ambulans sirener när de körde på Market Street var ännu högre. Det fanns nästan ingen på gatorna längre - bara folk som hopplöst försökte ta sig under jord. Många av dem grät. Jag såg en massa tomma bänkar - vanligtvis tagna av hemlösa - och pekade mot dem. 
 
@@ -688,7 +688,7 @@ Vi satt där länge och höll tröjan mot Darryls sida. Han insisterade att han 
 
 "Vad sägs om att ringa 911?" sa Jolu. 
 
-Jag kände mig som en idiot. Jag drog fram telefonen och slog 911. Ljudet som kom var inte ens en upptaget-signal -- det var som om att telefonisystemet bara gnydde. Man får inte ljud som de där ens om tre miljoner människor samtidigt slog samma samma nummer. Vem behöver botnets när man har terrorister?
+Jag kände mig som en idiot. Jag drog fram telefonen och slog 911. Ljudet som kom var inte ens en upptaget-signal -- det var som om att telefonisystemet bara gnydde. Man får inte ljud som de där ens om tre miljoner människor samtidigt slog samma nummer. Vem behöver botnets när man har terrorister?
 
 "Kommer du åt Wikipedia?" frågade Jolu.
 
@@ -696,7 +696,7 @@ Jag kände mig som en idiot. Jag drog fram telefonen och slog 911. Ljudet som ko
 
 "Och de där då?" sa Darry och pekade mot gatan. Jag tittade mot hållet han pekade åt och tänkte att jag skulle se en polis eller en ambulans, men det fanns ingen där.
 
-"Det är ok polarn, vila nu bara" sa jag.
+"Det är OK polarn, vila nu bara" sa jag.
 
 "Nej, din idiot, de där då, poliserna i bilarna? Där!"
 
@@ -708,7 +708,7 @@ Vanessa tyckte inte om det, men jag tänkte att en polis inte skulle stanna för
 
 Den första bilen som vrålade förbi - en ambulans - bromsade inte ens. Inte heller den polisbil som passerade, inte heller en brandbil, eller de kommande tre polisbilarna. Darryl var inte i god form - han var vit i ansiktet och flämtande. Van's tröja var dränkt i blod.
 
-Jag var trött på bilar som körde förbi. Nästa gång en bil dök upp på Market Street, jag klev rätt ut i vägen och viftade armarna över huvudet och ropade "* STOP *." Bilen stannade och först då märkte jag att det inte var en polisbil, ambulans eller brandbil.
+Jag var trött på bilar som körde förbi. Nästa gång en bil dök upp på Market Street, jag klev rätt ut i vägen och viftade armarna över huvudet och ropade "*STOP*." Bilen stannade och först då märkte jag att det inte var en polisbil, ambulans eller brandbil.
 
 Den såg ut som en militär-Jeep, som en bepansrad Hummer, men utan militär gradbeteckning. Bilen sladdade och stannade precis framför mig, och jag hoppade tillbaka och tappade balansen och hamnade på vägen. Jag kände att dörrarna öppnades nära mig, och sedan såg en samling fötter rör sig i närheten. Jag tittade upp och såg en massa killar som liknade militärer i overaller. De höll  stora, skrymmande gevär och bar huvförsedda gasmasker med tonade ansiktsplattor.
 
@@ -724,7 +724,7 @@ Jag snubblade en del, så tryckte en hand ned mitt huvud och jag var inne i Humm
 
 "Hörrni", sa jag till soldaterna. "Hörrni, lyssna! Vi är bara gymnasieelever. Jag ville flagga ner dig eftersom min kompis blöder. Någon stack honom." Jag hade ingen aning om hur mycket av detta som gick genom den dämpande väskan. Jag fortsatte att prata. "Lyssna - det här är något slags missförstånd. Vi måste få min vän till ett sjukhus --"
 
-Någon gick upp i huvudet på mig igen. Det kändes som om de använde en batong eller något - det var svårare än någon någonsin hade slagit mig i huvudet tidigare. Mina ögon simmade och vattnade och jag kunde bokstavligen inte andas genom smärtan. En stund senare fångade jag andan, men jag sa ingenting. Jag hade lärt mig min läxa.
+Någon gick upp i huvudet på mig igen. Det kändes som om de använde en batong eller något -- det var svårare än någon någonsin hade slagit mig i huvudet tidigare. Mina ögon simmade och vattnade och jag kunde bokstavligen inte andas genom smärtan. En stund senare fångade jag andan, men jag sa ingenting. Jag hade lärt mig min läxa.
 
 Vem var dessa clowner? De hade inte insignier. Kanske var de terrorister! Jag hade aldrig riktigt trott på terrorister tidigare - Alltså, jag visste abstrakt att det var terrorister någonstans i världen, men de representerade inte riktigt någon risk för mig. Det fanns miljontals sätt som världen kunde döda mig - börja med att bli överkörd av en berusad som åker till Valencia - det var oändligt mer sannolikt och omedelbart än terrorister. Terrorister dödade mycket färre människor än badrums-fall och oavsiktliga dödande elstötar. Att vara bekymrad över dem slog mig alltid lika nyttigt som oroandet för att bli slagen av blixten.
 
@@ -742,7 +742,7 @@ Mer rörelse, och känslan av kroppar utplacerade bredvid mig. Stön och dämpad
 
 Jag klarade faktiskt av en slags sömn där, knästående med cirkulationen avskuren till mina ben, mitt huvud i tavel skymning. Min kropp hade sprutat ett års tillförsel av adrenalin i mitt blodomlopp inom 30 minuter, och medan de här sakerna kan ge dig styrka att lyfta bilar från dina nära och kära och hoppa över höga byggnader, paybacken är för jävlig.
 
-Jag vaknade upp till att någon drog huvan från mitt huvud. De var varken grova eller noggranna - bara ... opersonliga. Som någon på McDonalds som sätter ihop hamburgare.
+Jag vaknade upp till att någon drog huvan från mitt huvud. De var varken grova eller noggranna -- bara ... opersonliga. Som någon på McDonalds som sätter ihop hamburgare.
 
 Ljuset i rummet var så starkt att jag var tvungen att pressa ögonen stängda, men långsamt kunde jag öppna dem i springor, sen sprickor, sen hela vägen och kunde titta runt. 
 
@@ -802,7 +802,7 @@ Han sträckte armen ned till hans bälte och tog upp ett väldigt trevligt set a
 
 Han drog mig in i badrummet. Mina händer var värdelösa, som klumpar av lera i mina handleds ändar. När jag vickade fingrarna, stack de sig, och stickningen vände sig till en brännande känsla som nästan fick mig att gråta. Jag satt sätet ner, släppte mina byxor och satte mig ner. Jag litade inte på mig själv att kunna stå på fötterna.
 
-När min blåsa slappnade av, så gjorde mina ögon likadant. Jag grät, grät tyst och gungade fram och tillbaka medan tårarna och snor rann ner i mitt ansikte. Det var allt jag kunde göra för att hålla mig från att snyfta - jag täckte min mun och höll ljuden inne. Jag ville inte ge dem tillfredsställelsen. 
+När min blåsa slappnade av, så gjorde mina ögon likadant. Jag grät, grät tyst och gungade fram och tillbaka medan tårarna och snor rann ner i mitt ansikte. Det var allt jag kunde göra för att hålla mig från att snyfta -- jag täckte min mun och höll ljuden inne. Jag ville inte ge dem tillfredsställelsen. 
 
 Slutligen hade jag kissat klart och ropade och killen slog på dörren. Jag städade mitt ansikte så bra som möjligt med toalettpapper, la det i toan och spolade och letade efter ett handfat, men hittade bara en pumpflaska med handsprit täckt i små utskriftslistor av de bio-agenter som det arbetade på. Jag gnuggade några i mina händer och gick ut ur toaletten.
 
@@ -820,7 +820,7 @@ En efter en, gick alla fångarna till toaletten och kom tillbaka, och när de va
 
 Därefter öppnade dörren på baksidan av trucken och det fanns frisk luft, inte rökig som den hade varit innan, men kittlade med ozon. Det jag såg utomhus innan dörren stängdes, fattade jag att det var mörkt och regnigt, med en av de San Francisco dugg som är dels dimma.
 
-Mannen som kom in hade en militär uniform. En amerikansk militär uniform. Han hälsade folket i lastbilen och de hälsade honom tillbaka och det var då jag visste att jag inte var en fånge av några terrorister - jag var en fånge i Förenta staterna.
+Mannen som kom in hade en militär uniform. En amerikansk militär uniform. Han hälsade folket i lastbilen och de hälsade honom tillbaka och det var då jag visste att jag inte var en fånge av några terrorister -- jag var en fånge i Förenta staterna.
 
 #
 
@@ -830,7 +830,7 @@ Jag var trea, tagen tillbaka av kvinnan med den knivskarpa frisyren. På nära h
 
 "Tack" sa jag automatiskt, då hon låste upp mig med en fjärrkontroll och sen drog upp mig till mina fötter. Jag hatade mig själv för den automatiska artigheten men den hade nötts in i mig.
 
-Hon ryckte inte på en muskel. Jag gick framför henne till baksidan av trucken och bakom skärmen. Det fanns en hopfällbar stol och jag satt i den. Två av dem - knivskarp-frisyr-kvinnan och verktygsbälte-mannen - tittade på mig från sina ergonomiska superstolar.
+Hon ryckte inte på en muskel. Jag gick framför henne till baksidan av trucken och bakom skärmen. Det fanns en hopfällbar stol och jag satt i den. Två av dem -- knivskarp-frisyr-kvinnan och verktygsbälte-mannen -- tittade på mig från sina ergonomiska superstolar.
 
 De hade ett litet bord mellan dem med innehållet från min plånbok och ryggsäck utspridda på det.
 
@@ -860,7 +860,7 @@ De två agenterna utbytte blickar.
 
 "Jag skulle vilja tala med en advokat", sa jag.
 
-Den knivskarpa frisyr-kvinnan tittade på mig som om jag var en insekt. "Du är under det felaktiga intrycket att du har blivit tagen av polisen för ett brott. Du måste komma över det. Du är kvar som en potentiell fiendekämpare av Förenta staternas regering. Om jag var du, skulle jag tänka väldigt hårt på hur man övertygar oss om att du inte är en fiendekämpare. Mycket svårt. För att det finns mörka hål där fiendenkämpare kan försvinna i, mycket mörka djupa hål, hål där du bara kan försvinna. För evigt. Lyssnar du på mig ung man? Jag vill att du låser upp den här telefonen och dekrypterar sedan filerna i minnet. Jag vill att du ska redogöra för dig själv: Varför var du ute på gatan? Vad vet du om attacken på denna stad ?"
+Den knivskarpa frisyr-kvinnan tittade på mig som om jag var en insekt. "Du är under det felaktiga intrycket att du har blivit tagen av polisen för ett brott. Du måste komma över det. Du är anhållen som en potentiell fiendekämpare av Förenta staternas regering. Om jag var du, skulle jag tänka väldigt hårt på hur man övertygar oss om att du inte är en fiendekämpare. Mycket hårt. För att det finns mörka hål där fiendenkämpare kan försvinna i, mycket mörka djupa hål, hål där du bara kan försvinna. För evigt. Lyssnar du på mig ung man? Jag vill att du låser upp den här telefonen och dekrypterar sedan filerna i minnet. Jag vill att du ska redogöra för dig själv: Varför var du ute på gatan? Vad vet du om attacken på denna stad?"
 
 "Jag kommer inte att låsa upp min telefon för dig," sa jag upprört. Min telefonminne hade alla möjliga privata saker på den: foton, e-ppost, små hack och modifikationer jag installerat. "Det är privata saker."
 
